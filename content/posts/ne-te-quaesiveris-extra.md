@@ -1,5 +1,5 @@
 ---
-date: 2019-08-13T22:40:32.000+00:00
+date: 2020-02-06T22:40:32Z
 title: Los supermercados son el problema.
 author: Joaquin O'Gorman
 hero_image: "/content/images/1_hpmln8t74soszwnozamcew.jpg"
