@@ -1,24 +1,54 @@
 ---
-title: On the Geneology of Morals
-date: '2019-08-16T22:37:31.000Z'
-hero_image: ../images/jj-ying-7JX0-bfiuxQ-unsplash.jpg
-author: Friedrich Nietzsche
+title: El futuro, no lejano, del trabajo.
+date: 2019-08-16T22:37:31.000Z
+hero_image: "/content/images/1_6mrsl3cwmn1kscutodw7oa.png"
+author: Joaquin O'Gorman
+
 ---
+_El próximo Jueves 6 de Junio, el Senado de la Nación se reunirá en una comisión especial nombrada “Comisión del Futuro” que buscará debatir acerca del futuro del trabajo. ¿Debatirán a fondo acerca del futuro del trabajo y las amenazas que la automatización implica? ¿O quedará reducida a una discusión salarial del nuevo delivery porteño?_
 
-So all respect to the good spirits that may govern in these historians of morality! But it’s certainly a pity that they lack the historical spirit itself, that they’ve been left in the lurch by all the good spirits of history! Collectively they all think essentially unhistorically, in the traditional manner of philosophers. Of that there is no doubt. The incompetence of their genealogies of morals reveals itself at the very beginning, where the issue is to determine the origin of the idea and of the judgment “good.”
+##### Por Joaquín O’Gorman
 
-“People,” so they proclaim, “originally praised unegoistic actions and called them good from the perspective of those for whom they were done, that is, those for whom such actions were useful. Later people forgot how this praise began, and because unegoistic actions had, according to custom, always been praised as good, people then simply felt them as good, as if they were something inherently good.”
+[_La ventana de Overton_](https://lamenteesmaravillosa.com/la-ventana-de-overton/) es una teoría política que indica que en cada época hay espacio para debatir una cierta cantidad de temas y todo lo que no este dentro de esa “ventana” se lo considera no urgente, y que no es necesario debatirlo. En el último tiempo vimos como los políticos comenzaron a preocuparse por las condiciones en las cuales trabajan los repartidores de Rappi, Glovo y PedidosYa, reclamando que estos trabajadores deberían recibir sus contribuciones y el acceso a una obra social o prepaga.
 
-# “What, from an etymological perspective, do the meanings of “Good” as manifested in different languages really mean?”
+El desempleo tecnológico, la automatización y el “Futuro del Trabajo” son temáticas mucho más complejas que resolver que una empresa “x” pague o no contribuciones a sus supuestos empleados.
 
-We see right away that this initial derivation already contains all the typical characteristics of the idiosyncrasies of English psychologists—we have “usefulness,” “forgetting,” “habit,” and finally “error,” all as the foundation for an evaluation in which the higher man up to this time has taken pride, as if it were a sort of privilege of men generally. This pride should be humbled, this evaluation of worth emptied of value. Has that been achieved?
+[The Future of Jobs Report](https://www.weforum.org/reports/the-future-of-jobs-report-2018) es un [estudio](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf) realizado en el año 2018 por el [Foro Económico Mundial](https://www.youtube.com/watch?time_continue=2&v=LWP9kPzaBBo) en donde entre varios datos relevantes indican que en los próximos 4 años la automatización destruirá 75 millones de puestos de trabajo. Del mismo modo, este estudio indica que las nuevas tecnologías crearán 133 millones de nuevos empleos.
 
-![](/content/images/ruslan-bardash-g83y6do219w-unsplash.jpg)
+Nuevos empleos significaron siempre a lo largo de la historia de la humanidad menor pobreza. Diversos estudios han señalado a las revoluciones industriales como las responsables de la reducir la pobreza en todo el mundo y con el avance de las máquinas a vapor, la electricidad y las computadoras esto se ha dado de manera exponencial.
 
-Now, first of all, it’s obvious to me that from this theory the origin of the idea “good” has been sought for and established in the wrong place: the judgment “good” did not move here from those to whom “goodness” was shown! It is much more that case that the “good people” themselves, that is, the noble, powerful, higher-ranking and higher-thinking people felt and set themselves and their actions up as good, that is to say, of the first rank, in contrast to everything low, low-minded, common, and vulgar. From this pathos of distance they first arrogated to themselves the right to create values, to stamp out the names for values. What did they care about usefulness!
+![](https://miro.medium.com/max/631/0*6kMzikDZZug4R7Gw =631x351)
 
-# “Although the two words “bad” and “evil” both seem opposite to the same idea of “good,” how different they are.”
+# El trabajo no esta en peligro, los sueldos si.
 
-In relation to such a hot pouring out of the highest rank-ordering, rank-setting judgments of value, the point of view which considers utility is as foreign and inappropriate as possible. Here the feeling has reached the opposite of that low level of warmth which is a condition for that calculating shrewdness, that calculation by utility—and not just for a moment, not for an exceptional hour, but permanently. The pathos of nobility and distance, as mentioned, the lasting and domineering feeling, something total and complete, of a higher ruling nature in relation to a lower nature, to an “beneath”—that is the origin of the opposition between “god” and “bad.” (The right of the master to give names extends so far that we could permit ourselves to grasp the origin of language itself as an expression of the power of the rulers: they say “that is such and such,” seal every object and event with a sound and, in so doing, take possession of it.)
+En Argentina encontrar investigaciones acerca del empleo es algo difícil dado al alto porcentaje de trabajo informal que ronda un 34%. Pero la [Universidad de Oxford](https://es.wikipedia.org/wiki/Universidad_de_Oxford) realizo un [estudio](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf) en donde señalan que el 47% del empleo de EEUU es especializado y repetitivo. Es decir, que casi la mitad de los trabajos podrían ser realizados por una máquina siendo automatizables.
 
-Given this origin, the word “good” was not in any way necessarily tied up with “unegoistic” actions, as the superstitions of those genealogists of morality tell us. Rather, that occurs for the first time with the collapse of aristocratic value judgments, when this entire contrast between “egoistic” and “unegoistic” pressed itself ever more strongly into human awareness—it is, to use my own words, the instinct of the herd which, through this contrast, finally gets its word (and its words). And even so, it took a long time until this instinct in the masses became ruler, with the result that moral evaluation got downright hung up and bogged down on this opposition (as is the case, for example, in modern Europe: today the prejudice that takes “moralistic,” “unegoistic,” “_désintéressé_” _\[disinterested\]_ as equally valuable ideas already governs, with the force of a “fixed idea” and a disease of the brain).
+El mayor problema al que nos enfrentamos es que esos salarios, que representan casi la mitad del empleo total, los cobran trabajadores de clase media, y la clase media representa el mayor volumen en la pirámide salarial. Y mas problemático es aún, que aunque sí sea cierto que se creará mas empleo relacionado a las nuevas tecnologías, también estos trabajos necesitaran de un nivel de estudios mucho mas alto que los empleos actuales.
+
+Los trabajos del futuro no solo se centran en controlar máquinas, monitorearlas, utilizar las emociones o tomar decisiones, siendo estos los empleos de mayor paga. Se esta creando una nueva rama de empleos de fácil acceso, como Rappi, Uber, PedidosYa, entre otros, en donde no existen las garantías laborales de ningún tipo y las condiciones laborales son deplorables.
+
+Y aquí esta la verdadera preocupación y lo que realmente tenemos que debatir, la automatización creará dos tipos de empleo: Los puestos de decisión y creatividad, que requieren un mayor grado de capacitación, y los puestos a los que se verán obligados a acudir aquellos que no puedan acceder a dicha capacitación, que son labores no puede realizar una máquina, pero no le genera ningún valor agregado al producto, caracterizados por la precarización laboral. Este fenómeno económico es conocido, aunque poco mencionado, como “Polarización del mercado laboral”.
+
+![](https://miro.medium.com/max/662/0*nJhePmsV6O7Q0YD1 =662x372)
+
+La polarización del mercado laboral muestra que tanto los puestos de trabajo con sueldos altos, como aquellos con sueldos bajos crecen. A diferencia de aquellos con sueldos medios que no han dejado de caer en todo en todo el mundo.
+
+Dado que los salarios medios son los mas voluminosos, son también los que más aportan en impuestos al estado. A pesar de que el aporte en número es menor por cada contribuyente, su conjunto configura la mayor fuente de ingresos para cualquier agencia de recaudación. Es decir, sin estos trabajos el “Estado de Bienestar” también se encuentra en peligro, y es por esto que los políticos están preocupados.
+
+# El problema no son las maquinas, somos nosotros.
+
+Seas o no estudiante, hagamos una radiografía de la educación actual ¿ Te acordás de tu último examen teórico? No importa cuál sea tu edad, la imagen, los métodos y el contenido será el mismo, o muy parecido. Un examen con preguntas, libros para estudiar, llega el día y los alumnos nos sentamos en los pupitres a tratar de repetir todo eso que leímos, haciendo un esfuerzo inútil por retener información que naturalmente olvidaremos a los pocos días.
+
+![](https://miro.medium.com/max/585/0*zKb39v2VNg6QHj7S =585x202)
+
+En 1950 no estaba nada mal, estábamos recién salidos de la segunda guerra y vivíamos en una época de expansión económica e industrial en donde la especialización, obedecer órdenes y repetir tareas cuadraban con los requerimientos de la época. Pero ¿Cuánto cambió el mundo y la economía desde 1950 hasta hoy?
+
+![](https://miro.medium.com/max/386/0*9baqv3jnqsN_CnjN =386x258)
+
+En el gráfico se ve claramente la caída de puestos de trabajo en el área industrial y en la agricultura, viéndose un abismal crecimiento en la capacidad empleadora de los sectores relacionados a los servicios, siendo estos los mas competitivos en los últimos tiempos.
+
+Lo que no se termina de entender es cómo seguimos abocados a educar a los jóvenes memorizando, reteniendo datos, respondiendo a preguntas que los “preparan” para trabajos que nunca tendrán, porque ya no existirán más. Nos hemos concentrado durante siglos en crear una inteligencia humana mediocre, y ahora se pagan las consecuencias.
+
+![](https://miro.medium.com/max/305/0*zKN_QYju8i1COwVp =305x432)
+
+En la antigua roma no había espacio para hablar sobre abolir la esclavitud. La razón de esto era que siendo los esclavos la base de la economía romana, abolirla significaría una destrucción de su economía. Es nuestro trabajo exigirles a nuestros políticos que incluyan en la “ventana” la polarización del empleo y la innovación educativa. Ya que de no abordarlo de la manera correspondiente, reduciéndolo a una cuestión menor de derechos laborales hará que en los próximos 20 años vivamos en una sociedad donde sobren los puestos de trabajo, y las habilidades necesarias para cubrirlos y mantener una economía que cubra las necesidades básicas de los ciudadanos, escasee.
