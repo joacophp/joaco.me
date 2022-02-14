@@ -1,6 +1,6 @@
 ---
 title: El futuro, no lejano, del trabajo.
-date: 2019-08-16T22:37:31.000Z
+date: 2020-04-01T22:37:31Z
 hero_image: "/content/images/1_6mrsl3cwmn1kscutodw7oa.png"
 author: Joaquin O'Gorman
 
