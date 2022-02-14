@@ -1,42 +1,36 @@
 ---
 date: 2019-08-08T22:42:09.000+00:00
-title: Sunflower Sutra
-author: Allen Ginsberg
-hero_image: "/content/images/adrien-olichon--aOsCcTJXWY-unsplash.jpg"
+title: 'El futuro del periodismo: ¿Una profesión o un Hobby?'
+author: Joaquin O'Gorman
+hero_image: "/content/images/1_vt4hgzxz3bw_4txnhdrrng.jpg"
 
 ---
-I walked on the banks of the tincan banana dock and sat down under the huge shade of a Southern Pacific locomotive to look for the sunset over the box house hills and cry.
+[_Eduardo Aguirre_](https://twitter.com/EduAguirre)_, periodista móvil especializado en tecnología, brindó una conferencia en el auditorio de la Universidad de Palermo donde compartió sus herramientas y dio su visión sobre la actualidad y el futuro del periodismo._
 
-Jack Kerouac sat beside me on a busted rusty iron pole, companion, we thought the same thoughts of the soul, bleak and blue and sad-eyed, surrounded by the gnarled steel roots of trees of machinery.
+_Por Joaquin O’Gorman (NumeroCeroDigital)_
 
-![](/content/images/elcarito-CRn-_80z4SE-unsplash.jpg)
+Imagina ser capaz de leer 250.000 artículos por día, resumirlos y a partir de ello elaborar un resumen que se actualiza automáticamente de manera directa ¿Sería increíble, no? IBM presento en 2018 [IBM Watson News Explorer](https://news-explorer.mybluemix.net/) un producto de la linea [Watson](https://news-explorer.mybluemix.net/), la super computadora de IBM capaz de procesar una inmensa cantidad de datos con inteligencia artificial en donde la compañía invirtió cerca de tres millones de dólares.
 
-The only water on the river mirrored the red sky, sun sank on top of final Frisco peaks, no fish in that stream, no hermit in those mounts, just ourselves rheumy-eyed and hung-over like old bums on the riverbank, tired and wily.
+Presentación IBM Watson
 
-Look at the Sunflower, he said, there was a dead gray shadow against the sky, big as a man, sitting dry on top of a pile of ancient sawdust–
+[Watson](https://www.ibm.com/watson) le permite no solo a los periodistas, sino a todo el mundo, tener acceso a las ultimas primicias y pone los recursos del periodismo al alcance de todos.
 
-\--I rushed up enchanted–it was my first sunflower, memories of Blake–my visions–Harlem
+Cuando hablamos del futuro del periodismo, tenemos la obligación de apuntarlo a los móviles. Analizando el mercado argentino, tiene lógica ver las estadísticas que hacen referencia al acceso a Internet desde dispositivos móviles. La [Camara Argentina de Comercio Electrónico (CACE)](https://www.cace.org.ar/) elabora un [informe](https://cace-static.s3-us-west-2.amazonaws.com/uploads/estudios/estudio-anual-comercio-electronico-argentina-2018-resumen.pdf) anual donde aún sitúa a los móviles con un 45% por debajo de los ordenadores, con un 64% al momento de realizar una compra. Lo curioso de estos datos es que en comparación al 2017, el porcentaje de los compradores a través de dispositivos móviles creció un 5% contra la de los ordenadores, sumando PC de escritorio, Notebooks y Netbooks donde cayo casi un 8%.
 
-# “the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye”
+Sucede de manera distinta con las noticias y la manera en que consumimos información en donde según encuestas, el 71% se informa a través de un Smartphone y casi un 89% a través de redes sociales. Sumado a esto el 60% del trafico online Argentino es mobile y Argentina tiene un indice de penetración de Smartphones de 66%. Pero frenemos aquí, ¿Qué significan tantos porcentajes? Podemos decir que de cada 3 argentinos 2 tienen un Smartphone y se informan por este medio.
 
-and Hells of the Eastern rivers, bridges clanking Joes greasy Sandwiches, dead baby carriages, black treadless tires forgotten and unretreaded, the poem of the riverbank, condoms & pots, steel knives, nothing stainless, only the dank muck and the razor-sharp artifacts passing into the past–
+En todo negocio que uno quiera analizar, de las primeras cosas en las que uno se enfoca es en sus barreras de entrada. Es decir, qué impedimentos tiene un nuevo competidor para poder realizar la actividad. Estas barreras de entrada en la industria de noticias, vienen cayendo con el avance de la tecnología de manera exponencial, permitíendole a prácticamente cualquier persona, crear su propio medio de comunicación sin requerir una inversión monumental ni una infraestructura imperial.
 
-and the gray Sunflower poised against the sunset, crackly bleak and dusty with the smut and smog and smoke of olden locomotives in its eye–
+El [periodismo móvil](https://www.periodismomovil.com.ar/) es una practica que no podría ser posible sin los avances tecnológicos que mejoraron la conectividad para cubrir eventos en vivo y la clara mejora en la calidad de la cámara en los dispositivos móviles. Esto implica una significativa reducción en los costos de infraestructura necesarios para realizar una nota.
 
-corolla of bleary spikes pushed down and broken like a battered crown, seeds fallen out of its face, soon-to-be-toothless mouth of sunny air, sunrays obliterated on its hairy head like a dried wire spiderweb,
+**— Numero Cero Digital:** Considerando el avance en tecnologías como la inteligencia artificial, el desarrollo de las computadoras cuánticas y el impacto que estas tienen en el desempleo tecnológico **¿Ves en el futuro a la tecnología como un aliado o como una amenaza para el periodismo convencional?**
 
-leaves stuck out like arms out of the stem, gestures from the sawdust root, broke pieces of plaster fallen out of the black twigs, a dead fly in its ear,
+**\~Eduardo Aguirre:** “_Las nuevas tecnologías permitirán hacer más y mejor periodismo, y con costos infinitamente más bajos. El desafío se centrará en cómo hará el periodista para vivir del periodismo, puesto que claramente está en retirada de ese rol la publicidad. La gran reconversión del periodismo terminará de tomar forma cuando se hayan definido las nuevas formas de sustentación, que hoy apuntan principalmente a la suscripción, es decir, al usuario.”_
 
-Unholy battered old thing you were, my sunflower O my soul, I loved you then!
+Estadísticas respaldan la opinión de [Eduardo](https://twitter.com/EduAguirre), indicando que el 47% de los periodistas trabajan en un emprendimiento propio, y la principal fuente de financiamiento son los ingresos personales, dejando en cuarto lugar a la pauta oficial, en contraste a lo que comúnmente se cree.
 
-![](/content/images/francesco-mazzoli-0xh3QPqcfKM-unsplash.jpg)
+Queda claro entonces que el principal desafió al cual se enfrenta el periodismo en el futuro es competir a través del capital humano y el talento para conseguir así un financiamiento estable que permita sostener la actividad.
 
-The grime was no man’s grime but death and human locomotives,
+![](https://miro.medium.com/max/700/0*0dnKmA8OW_KD0jNk.jpg =700x301)
 
-all that dress of dust, that veil of darkened railroad skin, that smog of cheek, that eyelid of black mis’ry, that sooty hand or phallus or protuberance of artificial worse-than-dirt–industrial–modern–all that civilization spotting your crazy golden crown–
-
-and those blear thoughts of death and dusty loveless eyes and ends and withered roots below, in the home-pile of sand and sawdust, rubber dollar bills, skin of machinery, the guts and innards of the weeping coughing car, the empty lonely tincans with their rusty tongues alack, what more could I name, the smoked ashes of some cock cigar, the cunts of wheelbarrows and the milky breasts of cars, wornout asses out of chairs & sphincters of dynamos–all these
-
-entangled in your mummied roots–and you standing before me in the sunset, all your glory in your form!
-
-A perfect beauty of a sunflower! a perfect excellent lovely sunflower existence! a sweet natural eye to the new hip moon, woke up alive and excited grasping in the sunset shadow sunrise golden monthly breeze!
+Auditorio de la Universidad de Palermo. Jueves 23 de Mayo
