@@ -1,5 +1,5 @@
 ---
-date: 2020-03-08T22:44:38Z
+date: 2020-06-01T22:44:38Z
 title: 'Blockchain: La solución a la crisis del Almacenamiento.'
 author: Joaquin O'Gorman
 hero_image: "/content/images/1_cwkmvb4bt23wtnggbumcpw.jpg"
